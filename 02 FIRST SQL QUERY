@@ -1,0 +1,14 @@
+/* 
+Created by Patrick Mensah
+Date Created: 04/06/2023
+Description: This query displays all the coustomers first, last names, phone numbers  and email addresses
+*/
+SELECT 
+    FirstName, LastName, Phone, Email
+FROM
+    Customer
+    
+/*Selecting all the culumns from the customer table*/
+SELECT *
+FROM Customer 
+    
